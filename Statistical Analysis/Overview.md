@@ -90,6 +90,7 @@ These findings are essential for **forecasting**, **strategy**, and **resource p
 
 ---
 
+Check out [Medium](https://medium.com/@temiloluwa.jokotola/beyond-the-averages-how-holidays-inflation-store-type-reshape-retail-sales-0df96f999f09) for **implications and impact** of analysis
 
 
 
