@@ -52,4 +52,6 @@ Statistical regression showed a **strong negative correlation** between **unempl
 - In terms of weekly sales, Store type **B > A > C**
 - Sales are higher during holidays
 
+Check out [Medium](https://medium.com/@temiloluwa.jokotola/what-drives-retail-sales-unveiling-hidden-patterns-from-the-smartsell-project-1742fc54427c) for **implications and impact** of analysis
+
 
