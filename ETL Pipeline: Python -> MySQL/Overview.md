@@ -147,3 +147,5 @@ This phase connected the dots between **data science models** and **production-r
 - Real-time querying
 - Dashboard integration
 - Deeper business intelligence
+
+Check out [Medium Post](https://medium.com/@temiloluwa.jokotola/from-predictions-to-pipelines-deploying-smartsell-sales-forecasts-into-sql-627627ecd575)
