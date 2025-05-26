@@ -6,7 +6,7 @@ st.set_page_config(page_title="📈 SmartSell Forecast Dashboard", layout="wide"
 st.title("📊 SmartSell Forecast Dashboard")
 
 # 🔐 MySQL Connection
-engine = create_engine('mysql+pymysql://root:para3saca1@localhost:3306/smart_retail')
+engine = create_engine('mysql+pymysql://sspowerbi:para3saca1@localhost:3306/smart_retail')
 
 # Sidebar filters
 st.sidebar.header("🔍 Filters")
