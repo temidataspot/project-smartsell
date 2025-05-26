@@ -78,5 +78,5 @@ At this stage:
 - Power BI can now query and visualize updated data from the database.
 - The setup paves the way for interactive reporting and executive dashboards that can evolve as new sales data becomes available.
 
-Read Medium post for further evaluation.
+Read [Medium Post](https://medium.com/@temiloluwa.jokotola/from-database-to-dashboard-connecting-mysql-to-power-bi-for-smartsell-retail-insights-6c4327ae6bf2) for further evaluation.
 
